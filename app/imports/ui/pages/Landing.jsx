@@ -27,7 +27,7 @@ class Landing extends React.Component {
             </Header>
           </Grid.Column>
           <Grid.Column textAlign='center'>
-            <Icon size="huge" name="calendar check" inverted/>
+            <Icon size="huge" name="calendar check outline" inverted/>
             <Header as='h1' inverted>
               Timestamped Notes
             </Header>
