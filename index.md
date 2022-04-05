@@ -76,4 +76,4 @@ Allows current user to edit the contact information associated with that user.
 
 Lastly, the list contacts admin page. The only difference between this and list-contacts is that the nav bar includes an extra link called "admin" that will list all pages associated with all users.
 
-<img src="list-contacts-admin.png"/>
+<img src="doc/list-contacts-admin.png"/>
