@@ -34,4 +34,4 @@ You can login using the credintials in [settings.development.json](https://githu
 
 The following sections describe the pages you can access and their functions
 
-<img src="doc/signin-page.png"/>
+<img src="doc/sign-up-page.png"/>
