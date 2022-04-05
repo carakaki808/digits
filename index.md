@@ -34,4 +34,16 @@ You can login using the credintials in [settings.development.json](https://githu
 
 The following sections describe the pages you can access and their functions
 
+#### Landing Page
+
+When you first view the app at localhost:3000, you will be presened with the landing page. This page gives a brief description of the app's utilities as well as a link to sign-in/sign-up page.
+
+<img src="doc/Digits-Landing-Page.png"/>
+
+#### Sign in/Account registration
+
+The sign in and account registration are similar in appearance. The user may login with an existing email and password on the database. Alerts will go off if credentials don't match existing information. Otherwise the user may register for a new account that does not already exist on the database.
+
 <img src="doc/sign-up-page.png"/>
+
+<img src="doc/registration-page.png"/>
