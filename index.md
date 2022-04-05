@@ -53,3 +53,15 @@ The sign in and account registration are similar in appearance. The user may log
 After successfully logging in, the nav bar will have two new options to the left, "Add Contact" and "List Contacts"
 
 <img src="doc/post-login-landing.png"/>
+
+#### Add Contact Page
+
+Allows user to save a contact profile that includes first & last name, address, an image, and a description.
+
+<img src="doc/registration-page.png"/>
+
+#### List Contact Page
+
+Allows user to list all contacts associated with the current user
+
+<img src="doc/list-contact-page.png"/>
