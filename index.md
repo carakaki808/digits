@@ -65,3 +65,15 @@ Allows user to save a contact profile that includes first & last name, address, 
 Allows user to list all contacts associated with the current user
 
 <img src="doc/list-contact-page.png"/>
+
+#### Edit Contact Page
+
+Allows current user to edit the contact information associated with that user.
+
+<img src="doc/edit-contact-page.png"/>
+
+#### List Contacts Admin
+
+Lastly, the list contacts admin page. The only difference between this and list-contacts is that the nav bar includes an extra link called "admin" that will list all pages associated with all users.
+
+<img src="list-contacts-admin.png"/>
