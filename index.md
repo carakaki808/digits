@@ -47,3 +47,9 @@ The sign in and account registration are similar in appearance. The user may log
 <img src="doc/sign-up-page.png"/>
 
 <img src="doc/registration-page.png"/>
+
+#### Post Login Landing Page
+
+After successfully logging in, the nav bar will have two new options to the left, "Add Contact" and "List Contacts"
+
+<img src="doc/post-login-landing.png"/>
