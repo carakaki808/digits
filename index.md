@@ -1,2 +1,2 @@
-<img src="doc/Digits-Landing-Page.png"/>
+<img small src="doc/Digits-Landing-Page.png"/>
 
