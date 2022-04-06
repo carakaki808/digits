@@ -1,3 +1,5 @@
+name: Digits
+about: A template for designing a collection of contacts
 google_analytics:
 show_downloads: true
 theme: jekyll-theme-slate
